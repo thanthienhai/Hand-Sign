@@ -1,0 +1,6 @@
+- Yêu cầu: chương trình chạy bằng python 3 - 64bit
+- Thư viện cần cài đặt: 
+  + OpenCV : pip install opencv-python
+  + Tensorflow : pip install tensorflow 
+- Hướng dẫn chạy chương trình: 
+  Chạy file demo.py trong thư mục. 
